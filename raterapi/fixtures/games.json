@@ -1,0 +1,143 @@
+[
+    {
+      "model": "raterapi.game",
+      "pk": 1,
+      "fields": {
+        "title": "Chess",
+        "description": "A classic strategy game played on an 8x8 grid.",
+        "designer": "Unknown",
+        "year_released": 1475,
+        "number_of_players": 2,
+        "estimated_play_time": "60-120 minutes",
+        "age_recommendation": "6+",
+        "user": 1
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 2,
+      "fields": {
+        "title": "Monopoly",
+        "description": "A real-estate board game for multiple players.",
+        "designer": "Elizabeth Magie",
+        "year_released": 1935,
+        "number_of_players": 2,
+        "estimated_play_time": "60-180 minutes",
+        "age_recommendation": "8+",
+        "user": 1
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 3,
+      "fields": {
+        "title": "Catan",
+        "description": "A game of trading and building on the island of Catan.",
+        "designer": "Klaus Teuber",
+        "year_released": 1995,
+        "number_of_players": 3,
+        "estimated_play_time": "60-90 minutes",
+        "age_recommendation": "10+",
+        "user": 2
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 4,
+      "fields": {
+        "title": "Pandemic",
+        "description": "A cooperative game where players work together to stop global pandemics.",
+        "designer": "Matt Leacock",
+        "year_released": 2008,
+        "number_of_players": 4,
+        "estimated_play_time": "45-60 minutes",
+        "age_recommendation": "8+",
+        "user": 2
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 5,
+      "fields": {
+        "title": "Carcassonne",
+        "description": "A tile-placement game where players build cities, roads, and fields.",
+        "designer": "Klaus-Jürgen Wrede",
+        "year_released": 2000,
+        "number_of_players": 5,
+        "estimated_play_time": "35-45 minutes",
+        "age_recommendation": "7+",
+        "user": 3
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 6,
+      "fields": {
+        "title": "Ticket to Ride",
+        "description": "A railway-themed board game.",
+        "designer": "Alan R. Moon",
+        "year_released": 2004,
+        "number_of_players": 5,
+        "estimated_play_time": "30-60 minutes",
+        "age_recommendation": "8+",
+        "user": 3
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 7,
+      "fields": {
+        "title": "Dominion",
+        "description": "A deck-building game where players compete to build the best kingdom.",
+        "designer": "Donald X. Vaccarino",
+        "year_released": 2008,
+        "number_of_players": 4,
+        "estimated_play_time": "30-45 minutes",
+        "age_recommendation": "13+",
+        "user": 2
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 8,
+      "fields": {
+        "title": "Gloomhaven",
+        "description": "A cooperative, campaign-driven dungeon crawl board game.",
+        "designer": "Isaac Childres",
+        "year_released": 2017,
+        "number_of_players": 4,
+        "estimated_play_time": "90-150 minutes",
+        "age_recommendation": "14+",
+        "user": 2
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 9,
+      "fields": {
+        "title": "Terraforming Mars",
+        "description": "A game about colonizing and terraforming the planet Mars.",
+        "designer": "Jacob Fryxelius",
+        "year_released": 2016,
+        "number_of_players": 5,
+        "estimated_play_time": "120-150 minutes",
+        "age_recommendation": "12+",
+        "user": 3
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 10,
+      "fields": {
+        "title": "Splendor",
+        "description": "A game where players collect gems and build developments.",
+        "designer": "Marc André",
+        "year_released": 2014,
+        "number_of_players": 4,
+        "estimated_play_time": "30 minutes",
+        "age_recommendation": "10+",
+        "user": 3
+      }
+    }
+  ]
+  

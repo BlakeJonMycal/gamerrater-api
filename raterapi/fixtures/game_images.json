@@ -1,0 +1,48 @@
+[
+    {
+      "model": "raterapi.gameimage",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "game": 1,
+        "img": "https://t4.ftcdn.net/jpg/02/22/23/61/360_F_222236135_XSbWQQstUTl4BRhxGzbPI7LkPfPecEj0.jpg"
+      }
+    },
+    {
+      "model": "raterapi.gameimage",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "game": 2,
+        "img": "https://media.npr.org/assets/img/2020/07/04/gettyimages-1212201194-7fe2d4c5609197ecea45ceca644fdedba5f11736.jpg"
+      }
+    },
+    {
+      "model": "raterapi.gameimage",
+      "pk": 3,
+      "fields": {
+        "user": 3,
+        "game": 3,
+        "img": "https://image.cnbcfm.com/api/v1/image/104151701-GettyImages-143949731.jpg?v=1481108000"
+      }
+    },
+    {
+      "model": "raterapi.gameimage",
+      "pk": 4,
+      "fields": {
+        "user": 4,
+        "game": 4,
+        "img": "https://thecanadianhomeschooler.com/wp-content/uploads/2022/12/Scrabble2.jpg"
+      }
+    },
+    {
+      "model": "raterapi.gameimage",
+      "pk": 5,
+      "fields": {
+        "user": 5,
+        "game": 5,
+        "img": "https://cdn.mos.cms.futurecdn.net/dqMYoUpSGMoVQFR3uEEQXB-1200-80.png"
+      }
+    }
+  ]
+  
