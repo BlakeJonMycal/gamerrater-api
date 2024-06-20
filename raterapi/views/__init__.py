@@ -1,1 +1,1 @@
-from .users import UserViewSet
+from .auth import login_user, register_user
